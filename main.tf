@@ -5,6 +5,6 @@ provider "aws" {
 
 resource "null_resource" "execute_script" {
   provisioner "local-exec" {
-    command = "bash ./create_resources.sh"
+    command = "bash ./create-aws-resources.sh"
   }
 }
