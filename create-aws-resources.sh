@@ -19,6 +19,6 @@ kops create cluster \
 --state s3://kops-s3-bucket-2024 \
 --node-count 5 \
 --master-size t3.medium \
--node-size t2.small \
+--node-size t2.small \
 --yes
 
