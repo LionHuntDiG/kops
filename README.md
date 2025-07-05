@@ -1,2 +1,3 @@
 # kops
 kops + Terraform + Github Actions + Python Application Deployment
+This repo has been suspended temporarly...
